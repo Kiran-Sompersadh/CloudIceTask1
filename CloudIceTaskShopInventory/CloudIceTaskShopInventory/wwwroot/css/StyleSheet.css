@@ -1,0 +1,17 @@
+﻿
+body.privacybackground {
+    background-image: url('../images/privacybackground.jpg');
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 100vh;
+    background-position: center;
+    background-color: darkgrey;
+}
+body.HomePagebackground {
+    background-image: url('../images/homepagebackground.jpg');
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 100vh;
+    background-position: center;
+    background-color: darkgrey;
+}
