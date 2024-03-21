@@ -3,64 +3,92 @@
   "WorkspaceRootPath": "C:\\Users\\ksomp\\source\\repos\\CloudIceTaskShopInventory\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{96158AC0-1325-4438-AEF3-7330BB5234E6}|CloudIceTaskShopInventory\\CloudIceTaskShopInventory.csproj|c:\\users\\ksomp\\source\\repos\\cloudicetaskshopinventory\\cloudicetaskshopinventory\\views\\inventories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{96158AC0-1325-4438-AEF3-7330BB5234E6}|CloudIceTaskShopInventory\\CloudIceTaskShopInventory.csproj|solutionrelative:cloudicetaskshopinventory\\views\\inventories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{96158AC0-1325-4438-AEF3-7330BB5234E6}|CloudIceTaskShopInventory\\CloudIceTaskShopInventory.csproj|c:\\users\\ksomp\\source\\repos\\cloudicetaskshopinventory\\cloudicetaskshopinventory\\models\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{96158AC0-1325-4438-AEF3-7330BB5234E6}|CloudIceTaskShopInventory\\CloudIceTaskShopInventory.csproj|solutionrelative:cloudicetaskshopinventory\\models\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{96158AC0-1325-4438-AEF3-7330BB5234E6}|CloudIceTaskShopInventory\\CloudIceTaskShopInventory.csproj|c:\\users\\ksomp\\source\\repos\\cloudicetaskshopinventory\\cloudicetaskshopinventory\\models\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{96158AC0-1325-4438-AEF3-7330BB5234E6}|CloudIceTaskShopInventory\\CloudIceTaskShopInventory.csproj|solutionrelative:cloudicetaskshopinventory\\models\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{96158AC0-1325-4438-AEF3-7330BB5234E6}|CloudIceTaskShopInventory\\CloudIceTaskShopInventory.csproj|c:\\users\\ksomp\\source\\repos\\cloudicetaskshopinventory\\cloudicetaskshopinventory\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{96158AC0-1325-4438-AEF3-7330BB5234E6}|CloudIceTaskShopInventory\\CloudIceTaskShopInventory.csproj|solutionrelative:cloudicetaskshopinventory\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{96158AC0-1325-4438-AEF3-7330BB5234E6}|CloudIceTaskShopInventory\\CloudIceTaskShopInventory.csproj|c:\\users\\ksomp\\source\\repos\\cloudicetaskshopinventory\\cloudicetaskshopinventory\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{96158AC0-1325-4438-AEF3-7330BB5234E6}|CloudIceTaskShopInventory\\CloudIceTaskShopInventory.csproj|solutionrelative:cloudicetaskshopinventory\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{96158AC0-1325-4438-AEF3-7330BB5234E6}|CloudIceTaskShopInventory\\CloudIceTaskShopInventory.csproj|c:\\users\\ksomp\\source\\repos\\cloudicetaskshopinventory\\cloudicetaskshopinventory\\wwwroot\\css\\stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{96158AC0-1325-4438-AEF3-7330BB5234E6}|CloudIceTaskShopInventory\\CloudIceTaskShopInventory.csproj|solutionrelative:cloudicetaskshopinventory\\wwwroot\\css\\stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{96158AC0-1325-4438-AEF3-7330BB5234E6}|CloudIceTaskShopInventory\\CloudIceTaskShopInventory.csproj|c:\\users\\ksomp\\source\\repos\\cloudicetaskshopinventory\\cloudicetaskshopinventory\\controllers\\inventoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{96158AC0-1325-4438-AEF3-7330BB5234E6}|CloudIceTaskShopInventory\\CloudIceTaskShopInventory.csproj|solutionrelative:cloudicetaskshopinventory\\controllers\\inventoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{96158AC0-1325-4438-AEF3-7330BB5234E6}|CloudIceTaskShopInventory\\CloudIceTaskShopInventory.csproj|c:\\users\\ksomp\\source\\repos\\cloudicetaskshopinventory\\cloudicetaskshopinventory\\views\\inventories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{96158AC0-1325-4438-AEF3-7330BB5234E6}|CloudIceTaskShopInventory\\CloudIceTaskShopInventory.csproj|solutionrelative:cloudicetaskshopinventory\\views\\inventories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{96158AC0-1325-4438-AEF3-7330BB5234E6}|CloudIceTaskShopInventory\\CloudIceTaskShopInventory.csproj|c:\\users\\ksomp\\source\\repos\\cloudicetaskshopinventory\\cloudicetaskshopinventory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{96158AC0-1325-4438-AEF3-7330BB5234E6}|CloudIceTaskShopInventory\\CloudIceTaskShopInventory.csproj|solutionrelative:cloudicetaskshopinventory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{96158AC0-1325-4438-AEF3-7330BB5234E6}|CloudIceTaskShopInventory\\CloudIceTaskShopInventory.csproj|c:\\users\\ksomp\\source\\repos\\cloudicetaskshopinventory\\cloudicetaskshopinventory\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{96158AC0-1325-4438-AEF3-7330BB5234E6}|CloudIceTaskShopInventory\\CloudIceTaskShopInventory.csproj|solutionrelative:cloudicetaskshopinventory\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{96158AC0-1325-4438-AEF3-7330BB5234E6}|CloudIceTaskShopInventory\\CloudIceTaskShopInventory.csproj|c:\\users\\ksomp\\source\\repos\\cloudicetaskshopinventory\\cloudicetaskshopinventory\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{96158AC0-1325-4438-AEF3-7330BB5234E6}|CloudIceTaskShopInventory\\CloudIceTaskShopInventory.csproj|solutionrelative:cloudicetaskshopinventory\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{96158AC0-1325-4438-AEF3-7330BB5234E6}|CloudIceTaskShopInventory\\CloudIceTaskShopInventory.csproj|c:\\users\\ksomp\\source\\repos\\cloudicetaskshopinventory\\cloudicetaskshopinventory\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{96158AC0-1325-4438-AEF3-7330BB5234E6}|CloudIceTaskShopInventory\\CloudIceTaskShopInventory.csproj|solutionrelative:cloudicetaskshopinventory\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{96158AC0-1325-4438-AEF3-7330BB5234E6}|CloudIceTaskShopInventory\\CloudIceTaskShopInventory.csproj|c:\\users\\ksomp\\source\\repos\\cloudicetaskshopinventory\\cloudicetaskshopinventory\\cloudicetaskshopinventory.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{96158AC0-1325-4438-AEF3-7330BB5234E6}|CloudIceTaskShopInventory\\CloudIceTaskShopInventory.csproj|solutionrelative:cloudicetaskshopinventory\\cloudicetaskshopinventory.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{96158AC0-1325-4438-AEF3-7330BB5234E6}|CloudIceTaskShopInventory\\CloudIceTaskShopInventory.csproj|c:\\users\\ksomp\\source\\repos\\cloudicetaskshopinventory\\cloudicetaskshopinventory\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{96158AC0-1325-4438-AEF3-7330BB5234E6}|CloudIceTaskShopInventory\\CloudIceTaskShopInventory.csproj|solutionrelative:cloudicetaskshopinventory\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{96158AC0-1325-4438-AEF3-7330BB5234E6}|CloudIceTaskShopInventory\\CloudIceTaskShopInventory.csproj|c:\\users\\ksomp\\source\\repos\\cloudicetaskshopinventory\\cloudicetaskshopinventory\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{96158AC0-1325-4438-AEF3-7330BB5234E6}|CloudIceTaskShopInventory\\CloudIceTaskShopInventory.csproj|solutionrelative:cloudicetaskshopinventory\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{96158AC0-1325-4438-AEF3-7330BB5234E6}|CloudIceTaskShopInventory\\CloudIceTaskShopInventory.csproj|c:\\users\\ksomp\\source\\repos\\cloudicetaskshopinventory\\cloudicetaskshopinventory\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{96158AC0-1325-4438-AEF3-7330BB5234E6}|CloudIceTaskShopInventory\\CloudIceTaskShopInventory.csproj|solutionrelative:cloudicetaskshopinventory\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{96158AC0-1325-4438-AEF3-7330BB5234E6}|CloudIceTaskShopInventory\\CloudIceTaskShopInventory.csproj|c:\\users\\ksomp\\source\\repos\\cloudicetaskshopinventory\\cloudicetaskshopinventory\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{96158AC0-1325-4438-AEF3-7330BB5234E6}|CloudIceTaskShopInventory\\CloudIceTaskShopInventory.csproj|solutionrelative:cloudicetaskshopinventory\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{96158AC0-1325-4438-AEF3-7330BB5234E6}|CloudIceTaskShopInventory\\CloudIceTaskShopInventory.csproj|c:\\users\\ksomp\\source\\repos\\cloudicetaskshopinventory\\cloudicetaskshopinventory\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{96158AC0-1325-4438-AEF3-7330BB5234E6}|CloudIceTaskShopInventory\\CloudIceTaskShopInventory.csproj|solutionrelative:cloudicetaskshopinventory\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{96158AC0-1325-4438-AEF3-7330BB5234E6}|CloudIceTaskShopInventory\\CloudIceTaskShopInventory.csproj|c:\\users\\ksomp\\source\\repos\\cloudicetaskshopinventory\\cloudicetaskshopinventory\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{96158AC0-1325-4438-AEF3-7330BB5234E6}|CloudIceTaskShopInventory\\CloudIceTaskShopInventory.csproj|solutionrelative:cloudicetaskshopinventory\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96158AC0-1325-4438-AEF3-7330BB5234E6}|CloudIceTaskShopInventory\\CloudIceTaskShopInventory.csproj|c:\\users\\ksomp\\source\\repos\\cloudicetaskshopinventory\\cloudicetaskshopinventory\\views\\inventories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{96158AC0-1325-4438-AEF3-7330BB5234E6}|CloudIceTaskShopInventory\\CloudIceTaskShopInventory.csproj|solutionrelative:cloudicetaskshopinventory\\views\\inventories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96158AC0-1325-4438-AEF3-7330BB5234E6}|CloudIceTaskShopInventory\\CloudIceTaskShopInventory.csproj|c:\\users\\ksomp\\source\\repos\\cloudicetaskshopinventory\\cloudicetaskshopinventory\\views\\inventories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{96158AC0-1325-4438-AEF3-7330BB5234E6}|CloudIceTaskShopInventory\\CloudIceTaskShopInventory.csproj|solutionrelative:cloudicetaskshopinventory\\views\\inventories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96158AC0-1325-4438-AEF3-7330BB5234E6}|CloudIceTaskShopInventory\\CloudIceTaskShopInventory.csproj|c:\\users\\ksomp\\source\\repos\\cloudicetaskshopinventory\\cloudicetaskshopinventory\\views\\inventories\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{96158AC0-1325-4438-AEF3-7330BB5234E6}|CloudIceTaskShopInventory\\CloudIceTaskShopInventory.csproj|solutionrelative:cloudicetaskshopinventory\\views\\inventories\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96158AC0-1325-4438-AEF3-7330BB5234E6}|CloudIceTaskShopInventory\\CloudIceTaskShopInventory.csproj|c:\\users\\ksomp\\source\\repos\\cloudicetaskshopinventory\\cloudicetaskshopinventory\\views\\inventories\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{96158AC0-1325-4438-AEF3-7330BB5234E6}|CloudIceTaskShopInventory\\CloudIceTaskShopInventory.csproj|solutionrelative:cloudicetaskshopinventory\\views\\inventories\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96158AC0-1325-4438-AEF3-7330BB5234E6}|CloudIceTaskShopInventory\\CloudIceTaskShopInventory.csproj|c:\\users\\ksomp\\source\\repos\\cloudicetaskshopinventory\\cloudicetaskshopinventory\\views\\inventories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{96158AC0-1325-4438-AEF3-7330BB5234E6}|CloudIceTaskShopInventory\\CloudIceTaskShopInventory.csproj|solutionrelative:cloudicetaskshopinventory\\views\\inventories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96158AC0-1325-4438-AEF3-7330BB5234E6}|CloudIceTaskShopInventory\\CloudIceTaskShopInventory.csproj|c:\\users\\ksomp\\source\\repos\\cloudicetaskshopinventory\\cloudicetaskshopinventory\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{96158AC0-1325-4438-AEF3-7330BB5234E6}|CloudIceTaskShopInventory\\CloudIceTaskShopInventory.csproj|solutionrelative:cloudicetaskshopinventory\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96158AC0-1325-4438-AEF3-7330BB5234E6}|CloudIceTaskShopInventory\\CloudIceTaskShopInventory.csproj|c:\\users\\ksomp\\source\\repos\\cloudicetaskshopinventory\\cloudicetaskshopinventory\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{96158AC0-1325-4438-AEF3-7330BB5234E6}|CloudIceTaskShopInventory\\CloudIceTaskShopInventory.csproj|solutionrelative:cloudicetaskshopinventory\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96158AC0-1325-4438-AEF3-7330BB5234E6}|CloudIceTaskShopInventory\\CloudIceTaskShopInventory.csproj|c:\\users\\ksomp\\source\\repos\\cloudicetaskshopinventory\\cloudicetaskshopinventory\\models\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96158AC0-1325-4438-AEF3-7330BB5234E6}|CloudIceTaskShopInventory\\CloudIceTaskShopInventory.csproj|solutionrelative:cloudicetaskshopinventory\\models\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96158AC0-1325-4438-AEF3-7330BB5234E6}|CloudIceTaskShopInventory\\CloudIceTaskShopInventory.csproj|c:\\users\\ksomp\\source\\repos\\cloudicetaskshopinventory\\cloudicetaskshopinventory\\models\\inventorycatogory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96158AC0-1325-4438-AEF3-7330BB5234E6}|CloudIceTaskShopInventory\\CloudIceTaskShopInventory.csproj|solutionrelative:cloudicetaskshopinventory\\models\\inventorycatogory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96158AC0-1325-4438-AEF3-7330BB5234E6}|CloudIceTaskShopInventory\\CloudIceTaskShopInventory.csproj|c:\\users\\ksomp\\source\\repos\\cloudicetaskshopinventory\\cloudicetaskshopinventory\\models\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96158AC0-1325-4438-AEF3-7330BB5234E6}|CloudIceTaskShopInventory\\CloudIceTaskShopInventory.csproj|solutionrelative:cloudicetaskshopinventory\\models\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96158AC0-1325-4438-AEF3-7330BB5234E6}|CloudIceTaskShopInventory\\CloudIceTaskShopInventory.csproj|c:\\users\\ksomp\\source\\repos\\cloudicetaskshopinventory\\cloudicetaskshopinventory\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96158AC0-1325-4438-AEF3-7330BB5234E6}|CloudIceTaskShopInventory\\CloudIceTaskShopInventory.csproj|solutionrelative:cloudicetaskshopinventory\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96158AC0-1325-4438-AEF3-7330BB5234E6}|CloudIceTaskShopInventory\\CloudIceTaskShopInventory.csproj|c:\\users\\ksomp\\source\\repos\\cloudicetaskshopinventory\\cloudicetaskshopinventory\\controllers\\inventoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96158AC0-1325-4438-AEF3-7330BB5234E6}|CloudIceTaskShopInventory\\CloudIceTaskShopInventory.csproj|solutionrelative:cloudicetaskshopinventory\\controllers\\inventoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96158AC0-1325-4438-AEF3-7330BB5234E6}|CloudIceTaskShopInventory\\CloudIceTaskShopInventory.csproj|c:\\users\\ksomp\\source\\repos\\cloudicetaskshopinventory\\cloudicetaskshopinventory\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96158AC0-1325-4438-AEF3-7330BB5234E6}|CloudIceTaskShopInventory\\CloudIceTaskShopInventory.csproj|solutionrelative:cloudicetaskshopinventory\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96158AC0-1325-4438-AEF3-7330BB5234E6}|CloudIceTaskShopInventory\\CloudIceTaskShopInventory.csproj|c:\\users\\ksomp\\source\\repos\\cloudicetaskshopinventory\\cloudicetaskshopinventory\\wwwroot\\css\\stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{96158AC0-1325-4438-AEF3-7330BB5234E6}|CloudIceTaskShopInventory\\CloudIceTaskShopInventory.csproj|solutionrelative:cloudicetaskshopinventory\\wwwroot\\css\\stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96158AC0-1325-4438-AEF3-7330BB5234E6}|CloudIceTaskShopInventory\\CloudIceTaskShopInventory.csproj|c:\\users\\ksomp\\source\\repos\\cloudicetaskshopinventory\\cloudicetaskshopinventory\\cloudicetaskshopinventory.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{96158AC0-1325-4438-AEF3-7330BB5234E6}|CloudIceTaskShopInventory\\CloudIceTaskShopInventory.csproj|solutionrelative:cloudicetaskshopinventory\\cloudicetaskshopinventory.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{96158AC0-1325-4438-AEF3-7330BB5234E6}|CloudIceTaskShopInventory\\CloudIceTaskShopInventory.csproj|c:\\users\\ksomp\\source\\repos\\cloudicetaskshopinventory\\cloudicetaskshopinventory\\migrations\\20240320080247_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -74,82 +102,69 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "SeedData.cs",
-              "DocumentMoniker": "C:\\Users\\ksomp\\source\\repos\\CloudIceTaskShopInventory\\CloudIceTaskShopInventory\\Models\\SeedData.cs",
-              "RelativeDocumentMoniker": "CloudIceTaskShopInventory\\Models\\SeedData.cs",
-              "ToolTip": "C:\\Users\\ksomp\\source\\repos\\CloudIceTaskShopInventory\\CloudIceTaskShopInventory\\Models\\SeedData.cs",
-              "RelativeToolTip": "CloudIceTaskShopInventory\\Models\\SeedData.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAAwC0AAAAmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-21T09:15:14.645Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ksomp\\source\\repos\\CloudIceTaskShopInventory\\CloudIceTaskShopInventory\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "CloudIceTaskShopInventory\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ksomp\\source\\repos\\CloudIceTaskShopInventory\\CloudIceTaskShopInventory\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "CloudIceTaskShopInventory\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-20T14:55:53.135Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Inventory.cs",
-              "DocumentMoniker": "C:\\Users\\ksomp\\source\\repos\\CloudIceTaskShopInventory\\CloudIceTaskShopInventory\\Models\\Inventory.cs",
-              "RelativeDocumentMoniker": "CloudIceTaskShopInventory\\Models\\Inventory.cs",
-              "ToolTip": "C:\\Users\\ksomp\\source\\repos\\CloudIceTaskShopInventory\\CloudIceTaskShopInventory\\Models\\Inventory.cs",
-              "RelativeToolTip": "CloudIceTaskShopInventory\\Models\\Inventory.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-20T06:54:17.436Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "StyleSheet.css",
-              "DocumentMoniker": "C:\\Users\\ksomp\\source\\repos\\CloudIceTaskShopInventory\\CloudIceTaskShopInventory\\wwwroot\\css\\StyleSheet.css",
-              "RelativeDocumentMoniker": "CloudIceTaskShopInventory\\wwwroot\\css\\StyleSheet.css",
-              "ToolTip": "C:\\Users\\ksomp\\source\\repos\\CloudIceTaskShopInventory\\CloudIceTaskShopInventory\\wwwroot\\css\\StyleSheet.css",
-              "RelativeToolTip": "CloudIceTaskShopInventory\\wwwroot\\css\\StyleSheet.css",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAPAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-03-20T21:19:34.712Z",
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ksomp\\source\\repos\\CloudIceTaskShopInventory\\CloudIceTaskShopInventory\\appsettings.json",
+              "RelativeDocumentMoniker": "CloudIceTaskShopInventory\\appsettings.json",
+              "ToolTip": "C:\\Users\\ksomp\\source\\repos\\CloudIceTaskShopInventory\\CloudIceTaskShopInventory\\appsettings.json",
+              "RelativeToolTip": "CloudIceTaskShopInventory\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-21T11:59:04.629Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\ksomp\\source\\repos\\CloudIceTaskShopInventory\\CloudIceTaskShopInventory\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "CloudIceTaskShopInventory\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\ksomp\\source\\repos\\CloudIceTaskShopInventory\\CloudIceTaskShopInventory\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "CloudIceTaskShopInventory\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAAB0AAAAWAAAA",
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\ksomp\\source\\repos\\CloudIceTaskShopInventory\\CloudIceTaskShopInventory\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "CloudIceTaskShopInventory\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\ksomp\\source\\repos\\CloudIceTaskShopInventory\\CloudIceTaskShopInventory\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "CloudIceTaskShopInventory\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-20T14:56:44.122Z",
+              "WhenOpened": "2024-03-21T11:58:57.26Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 8,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ksomp\\source\\repos\\CloudIceTaskShopInventory\\CloudIceTaskShopInventory\\Views\\Inventories\\Edit.cshtml",
+              "RelativeDocumentMoniker": "CloudIceTaskShopInventory\\Views\\Inventories\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ksomp\\source\\repos\\CloudIceTaskShopInventory\\CloudIceTaskShopInventory\\Views\\Inventories\\Edit.cshtml",
+              "RelativeToolTip": "CloudIceTaskShopInventory\\Views\\Inventories\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-21T11:58:30.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\ksomp\\source\\repos\\CloudIceTaskShopInventory\\CloudIceTaskShopInventory\\Views\\Inventories\\Details.cshtml",
+              "RelativeDocumentMoniker": "CloudIceTaskShopInventory\\Views\\Inventories\\Details.cshtml",
+              "ToolTip": "C:\\Users\\ksomp\\source\\repos\\CloudIceTaskShopInventory\\CloudIceTaskShopInventory\\Views\\Inventories\\Details.cshtml",
+              "RelativeToolTip": "CloudIceTaskShopInventory\\Views\\Inventories\\Details.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-21T11:58:27.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\ksomp\\source\\repos\\CloudIceTaskShopInventory\\CloudIceTaskShopInventory\\Views\\Inventories\\Index.cshtml",
               "RelativeDocumentMoniker": "CloudIceTaskShopInventory\\Views\\Inventories\\Index.cshtml",
               "ToolTip": "C:\\Users\\ksomp\\source\\repos\\CloudIceTaskShopInventory\\CloudIceTaskShopInventory\\Views\\Inventories\\Index.cshtml",
               "RelativeToolTip": "CloudIceTaskShopInventory\\Views\\Inventories\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-03-21T09:03:42.998Z",
               "EditorCaption": ""
@@ -157,97 +172,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "InventoriesController.cs",
-              "DocumentMoniker": "C:\\Users\\ksomp\\source\\repos\\CloudIceTaskShopInventory\\CloudIceTaskShopInventory\\Controllers\\InventoriesController.cs",
-              "RelativeDocumentMoniker": "CloudIceTaskShopInventory\\Controllers\\InventoriesController.cs",
-              "ToolTip": "C:\\Users\\ksomp\\source\\repos\\CloudIceTaskShopInventory\\CloudIceTaskShopInventory\\Controllers\\InventoriesController.cs",
-              "RelativeToolTip": "CloudIceTaskShopInventory\\Controllers\\InventoriesController.cs",
-              "ViewState": "AQIAACkAAAAAAAAAAAAAwAwAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-20T07:53:31.136Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\ksomp\\source\\repos\\CloudIceTaskShopInventory\\CloudIceTaskShopInventory\\Views\\Inventories\\Create.cshtml",
-              "RelativeDocumentMoniker": "CloudIceTaskShopInventory\\Views\\Inventories\\Create.cshtml",
-              "ToolTip": "C:\\Users\\ksomp\\source\\repos\\CloudIceTaskShopInventory\\CloudIceTaskShopInventory\\Views\\Inventories\\Create.cshtml",
-              "RelativeToolTip": "CloudIceTaskShopInventory\\Views\\Inventories\\Create.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAASAAAA",
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ksomp\\source\\repos\\CloudIceTaskShopInventory\\CloudIceTaskShopInventory\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CloudIceTaskShopInventory\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ksomp\\source\\repos\\CloudIceTaskShopInventory\\CloudIceTaskShopInventory\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CloudIceTaskShopInventory\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAB0AAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-21T09:23:24.179Z",
+              "WhenOpened": "2024-03-20T14:56:44.122Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Privacy.cshtml",
-              "DocumentMoniker": "C:\\Users\\ksomp\\source\\repos\\CloudIceTaskShopInventory\\CloudIceTaskShopInventory\\Views\\Home\\Privacy.cshtml",
-              "RelativeDocumentMoniker": "CloudIceTaskShopInventory\\Views\\Home\\Privacy.cshtml",
-              "ToolTip": "C:\\Users\\ksomp\\source\\repos\\CloudIceTaskShopInventory\\CloudIceTaskShopInventory\\Views\\Home\\Privacy.cshtml",
-              "RelativeToolTip": "CloudIceTaskShopInventory\\Views\\Home\\Privacy.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-20T15:11:06.224Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\ksomp\\source\\repos\\CloudIceTaskShopInventory\\CloudIceTaskShopInventory\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "CloudIceTaskShopInventory\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\ksomp\\source\\repos\\CloudIceTaskShopInventory\\CloudIceTaskShopInventory\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "CloudIceTaskShopInventory\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-21T08:40:40.192Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ksomp\\source\\repos\\CloudIceTaskShopInventory\\CloudIceTaskShopInventory\\Program.cs",
-              "RelativeDocumentMoniker": "CloudIceTaskShopInventory\\Program.cs",
-              "ToolTip": "C:\\Users\\ksomp\\source\\repos\\CloudIceTaskShopInventory\\CloudIceTaskShopInventory\\Program.cs",
-              "RelativeToolTip": "CloudIceTaskShopInventory\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-20T14:52:40.724Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "CloudIceTaskShopInventory",
-              "DocumentMoniker": "C:\\Users\\ksomp\\source\\repos\\CloudIceTaskShopInventory\\CloudIceTaskShopInventory\\CloudIceTaskShopInventory.csproj",
-              "RelativeDocumentMoniker": "CloudIceTaskShopInventory\\CloudIceTaskShopInventory.csproj",
-              "ToolTip": "C:\\Users\\ksomp\\source\\repos\\CloudIceTaskShopInventory\\CloudIceTaskShopInventory\\CloudIceTaskShopInventory.csproj",
-              "RelativeToolTip": "CloudIceTaskShopInventory\\CloudIceTaskShopInventory.csproj",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAABAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-03-20T15:29:36.574Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "_ValidationScriptsPartial.cshtml",
-              "DocumentMoniker": "C:\\Users\\ksomp\\source\\repos\\CloudIceTaskShopInventory\\CloudIceTaskShopInventory\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeDocumentMoniker": "CloudIceTaskShopInventory\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ToolTip": "C:\\Users\\ksomp\\source\\repos\\CloudIceTaskShopInventory\\CloudIceTaskShopInventory\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeToolTip": "CloudIceTaskShopInventory\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-20T15:01:51.37Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 3,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\ksomp\\source\\repos\\CloudIceTaskShopInventory\\CloudIceTaskShopInventory\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "CloudIceTaskShopInventory\\Views\\_ViewImports.cshtml",
@@ -260,7 +197,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ksomp\\source\\repos\\CloudIceTaskShopInventory\\CloudIceTaskShopInventory\\Program.cs",
+              "RelativeDocumentMoniker": "CloudIceTaskShopInventory\\Program.cs",
+              "ToolTip": "C:\\Users\\ksomp\\source\\repos\\CloudIceTaskShopInventory\\CloudIceTaskShopInventory\\Program.cs",
+              "RelativeToolTip": "CloudIceTaskShopInventory\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABkAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T14:52:40.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\ksomp\\source\\repos\\CloudIceTaskShopInventory\\CloudIceTaskShopInventory\\Views\\Inventories\\Delete.cshtml",
+              "RelativeDocumentMoniker": "CloudIceTaskShopInventory\\Views\\Inventories\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\ksomp\\source\\repos\\CloudIceTaskShopInventory\\CloudIceTaskShopInventory\\Views\\Inventories\\Delete.cshtml",
+              "RelativeToolTip": "CloudIceTaskShopInventory\\Views\\Inventories\\Delete.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-21T11:58:24.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\ksomp\\source\\repos\\CloudIceTaskShopInventory\\CloudIceTaskShopInventory\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "CloudIceTaskShopInventory\\Views\\_ViewStart.cshtml",
@@ -273,7 +236,161 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ksomp\\source\\repos\\CloudIceTaskShopInventory\\CloudIceTaskShopInventory\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "CloudIceTaskShopInventory\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ksomp\\source\\repos\\CloudIceTaskShopInventory\\CloudIceTaskShopInventory\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "CloudIceTaskShopInventory\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-20T14:55:53.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "C:\\Users\\ksomp\\source\\repos\\CloudIceTaskShopInventory\\CloudIceTaskShopInventory\\Models\\SeedData.cs",
+              "RelativeDocumentMoniker": "CloudIceTaskShopInventory\\Models\\SeedData.cs",
+              "ToolTip": "C:\\Users\\ksomp\\source\\repos\\CloudIceTaskShopInventory\\CloudIceTaskShopInventory\\Models\\SeedData.cs",
+              "RelativeToolTip": "CloudIceTaskShopInventory\\Models\\SeedData.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwC0AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T09:15:14.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\ksomp\\source\\repos\\CloudIceTaskShopInventory\\CloudIceTaskShopInventory\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "CloudIceTaskShopInventory\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\ksomp\\source\\repos\\CloudIceTaskShopInventory\\CloudIceTaskShopInventory\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "CloudIceTaskShopInventory\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-20T15:01:51.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 15,
+              "Title": "InventoryCatogory.cs",
+              "DocumentMoniker": "C:\\Users\\ksomp\\source\\repos\\CloudIceTaskShopInventory\\CloudIceTaskShopInventory\\Models\\InventoryCatogory.cs",
+              "RelativeDocumentMoniker": "CloudIceTaskShopInventory\\Models\\InventoryCatogory.cs",
+              "ToolTip": "C:\\Users\\ksomp\\source\\repos\\CloudIceTaskShopInventory\\CloudIceTaskShopInventory\\Models\\InventoryCatogory.cs",
+              "RelativeToolTip": "CloudIceTaskShopInventory\\Models\\InventoryCatogory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T11:57:56.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Inventory.cs",
+              "DocumentMoniker": "C:\\Users\\ksomp\\source\\repos\\CloudIceTaskShopInventory\\CloudIceTaskShopInventory\\Models\\Inventory.cs",
+              "RelativeDocumentMoniker": "CloudIceTaskShopInventory\\Models\\Inventory.cs",
+              "ToolTip": "C:\\Users\\ksomp\\source\\repos\\CloudIceTaskShopInventory\\CloudIceTaskShopInventory\\Models\\Inventory.cs",
+              "RelativeToolTip": "CloudIceTaskShopInventory\\Models\\Inventory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T06:54:17.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ksomp\\source\\repos\\CloudIceTaskShopInventory\\CloudIceTaskShopInventory\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "CloudIceTaskShopInventory\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\ksomp\\source\\repos\\CloudIceTaskShopInventory\\CloudIceTaskShopInventory\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "CloudIceTaskShopInventory\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T11:57:51.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\ksomp\\source\\repos\\CloudIceTaskShopInventory\\CloudIceTaskShopInventory\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "CloudIceTaskShopInventory\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\ksomp\\source\\repos\\CloudIceTaskShopInventory\\CloudIceTaskShopInventory\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "CloudIceTaskShopInventory\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-20T15:11:06.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ksomp\\source\\repos\\CloudIceTaskShopInventory\\CloudIceTaskShopInventory\\Views\\Inventories\\Create.cshtml",
+              "RelativeDocumentMoniker": "CloudIceTaskShopInventory\\Views\\Inventories\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ksomp\\source\\repos\\CloudIceTaskShopInventory\\CloudIceTaskShopInventory\\Views\\Inventories\\Create.cshtml",
+              "RelativeToolTip": "CloudIceTaskShopInventory\\Views\\Inventories\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-21T09:23:24.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "StyleSheet.css",
+              "DocumentMoniker": "C:\\Users\\ksomp\\source\\repos\\CloudIceTaskShopInventory\\CloudIceTaskShopInventory\\wwwroot\\css\\StyleSheet.css",
+              "RelativeDocumentMoniker": "CloudIceTaskShopInventory\\wwwroot\\css\\StyleSheet.css",
+              "ToolTip": "C:\\Users\\ksomp\\source\\repos\\CloudIceTaskShopInventory\\CloudIceTaskShopInventory\\wwwroot\\css\\StyleSheet.css",
+              "RelativeToolTip": "CloudIceTaskShopInventory\\wwwroot\\css\\StyleSheet.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-20T21:19:34.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "InventoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\ksomp\\source\\repos\\CloudIceTaskShopInventory\\CloudIceTaskShopInventory\\Controllers\\InventoriesController.cs",
+              "RelativeDocumentMoniker": "CloudIceTaskShopInventory\\Controllers\\InventoriesController.cs",
+              "ToolTip": "C:\\Users\\ksomp\\source\\repos\\CloudIceTaskShopInventory\\CloudIceTaskShopInventory\\Controllers\\InventoriesController.cs",
+              "RelativeToolTip": "CloudIceTaskShopInventory\\Controllers\\InventoriesController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAzwG0AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T07:53:31.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ksomp\\source\\repos\\CloudIceTaskShopInventory\\CloudIceTaskShopInventory\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "CloudIceTaskShopInventory\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ksomp\\source\\repos\\CloudIceTaskShopInventory\\CloudIceTaskShopInventory\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "CloudIceTaskShopInventory\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T08:40:40.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CloudIceTaskShopInventory.csproj",
+              "DocumentMoniker": "C:\\Users\\ksomp\\source\\repos\\CloudIceTaskShopInventory\\CloudIceTaskShopInventory\\CloudIceTaskShopInventory.csproj",
+              "RelativeDocumentMoniker": "CloudIceTaskShopInventory\\CloudIceTaskShopInventory.csproj",
+              "ToolTip": "C:\\Users\\ksomp\\source\\repos\\CloudIceTaskShopInventory\\CloudIceTaskShopInventory\\CloudIceTaskShopInventory.csproj",
+              "RelativeToolTip": "CloudIceTaskShopInventory\\CloudIceTaskShopInventory.csproj",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-20T15:29:36.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
               "Title": "20240320080247_InitialCreate.cs",
               "DocumentMoniker": "C:\\Users\\ksomp\\source\\repos\\CloudIceTaskShopInventory\\CloudIceTaskShopInventory\\Migrations\\20240320080247_InitialCreate.cs",
               "RelativeDocumentMoniker": "CloudIceTaskShopInventory\\Migrations\\20240320080247_InitialCreate.cs",
@@ -281,8 +398,7 @@
               "RelativeToolTip": "CloudIceTaskShopInventory\\Migrations\\20240320080247_InitialCreate.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-20T08:02:47.819Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-20T08:02:47.819Z"
             }
           ]
         }

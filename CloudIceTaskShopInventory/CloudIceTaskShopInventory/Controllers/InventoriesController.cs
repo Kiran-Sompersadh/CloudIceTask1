@@ -20,28 +20,6 @@ namespace CloudIceTaskShopInventory.Controllers
         }
 
         // GET: Inventories
-        //public async Task<IActionResult> Index()
-        //{
-        //    return View(await _context.Inventory.ToListAsync());
-        //}
-        //public async Task<IActionResult> Index(string searchString)
-        //{
-        //    if (_context.Inventory == null)
-        //    {
-        //        return Problem("Entity set 'CloudIceTaskShopInventoryContext.Inventory'  is null.");
-        //    }
-
-        //    var inventory = from m in _context.Inventory
-        //                 select m;
-
-        //    if (!String.IsNullOrEmpty(searchString))
-        //    {
-        //        inventory = inventory.Where(s => s.ProductName!.Contains(searchString));
-        //    }
-
-        //    return View(await inventory.ToListAsync());
-        //}
-        
         public async Task<IActionResult> Index(string ProductCatogory, string searchString)
         {
             if (_context.Inventory == null)
@@ -100,8 +78,6 @@ namespace CloudIceTaskShopInventory.Controllers
         }
 
         // POST: Inventories/Create
-        // To protect from overposting attacks, enable the specific properties you want to bind to.
-        // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Create([Bind("ProductId,ProductName,LastOrderedOn,Quantity,Price,Catogory")] Inventory inventory)
@@ -132,8 +108,6 @@ namespace CloudIceTaskShopInventory.Controllers
         }
 
         // POST: Inventories/Edit/5
-        // To protect from overposting attacks, enable the specific properties you want to bind to.
-        // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Edit(int id, [Bind("ProductId,ProductName,LastOrderedOn,Quantity,Price,Catogory")] Inventory inventory)
